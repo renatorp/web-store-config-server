@@ -1,3 +1,14 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
 *.iws
 *.iml
 *.ipr
@@ -8,10 +19,6 @@
 /nbbuild/
 /dist/
 /nbdist/
-<<<<<<< HEAD
-/.nb-gradle/
-=======
-/.nb-gradle/
 
 # Compiled class file
 *.class
@@ -44,4 +51,4 @@ target/
 mvnw
 mvnw.cmd
 .project
-.classpath
+
